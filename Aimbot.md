@@ -176,7 +176,7 @@ game:GetService('RunService').RenderStepped:connect(function()
 
    v.Character.HumanoidRootPart.Transparency = 0.9
 
-   v.Character.HumanoidRootPart.Color = ColorA.new(Red.Text,Green.Text,Blue.Text)
+   v.Character.HumanoidRootPart.Color = Color3.new(Red.Text,Green.Text,Blue.Text)
 
    v.Character.HumanoidRootPart.Material = "Neon"
 
