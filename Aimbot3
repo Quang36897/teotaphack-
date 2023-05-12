@@ -1,4 +1,5 @@
-_G.HeadSize = 50
+_G.HeadSize = 300
+
 
 _G.Disabled = true
 
