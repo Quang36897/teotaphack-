@@ -1,7 +1,7 @@
 
 
 
-local keys = shared.keys or {"A", "S", "J", "K"} -- MAKE THIS YOUR ROBEATS KEYBINDS FROM LEFT TO RIGHT, OR SET IN SHARED.KEYS
+local keys = shared.keys or {"A", "S", "W", "D"} -- MAKE THIS YOUR ROBEATS KEYBINDS FROM LEFT TO RIGHT, OR SET IN SHARED.KEYS
 
 local VirtualInputManager = game:GetService("VirtualInputManager")
 
